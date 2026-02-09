@@ -1,1 +1,2 @@
 # Coding_Challenge3A
+Hi there!! This is to track customer records and emails and what they buy. This is important because it helps businesses keep track their customers and theyre important information by using arrays which are useful too.
