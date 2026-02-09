@@ -1,2 +1,2 @@
-# Coding_Challenge3A
-Hi there!! This is to track customer records and emails and what they buy. This is important because it helps businesses keep track their customers and theyre important information by using arrays which are useful too.
+Customer_Records_Tracker_3A
+Hi! This project is a Customer Records Tracker that keeps track of customer names, emails, and the items they purchase. The purpose of this program is to show how businesses can organize and manage customer information using arrays and objects in JavaScript. This is important because companies need a simple way to store, update, and review customer data so they can understand buying patterns and keep accurate records.
